@@ -1,0 +1,4 @@
+{
+    "appService.defaultWebAppToDeploy": "/subscriptions/5c6b8818-23e0-4d70-a74f-bcf679fcb626/resourceGroups/appsvc_linux_centralus_basic/providers/Microsoft.Web/sites/scmTruckTracker",
+    "appService.deploySubpath": "."
+}
